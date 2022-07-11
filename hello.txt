@@ -19,4 +19,4 @@ hello git!
 hello git!
 hyyello git!
 hyyello git! master test
-hyyello git!
+hyyello git! hot-fix test
